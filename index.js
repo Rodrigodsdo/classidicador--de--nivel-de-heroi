@@ -1,0 +1,2 @@
+// personagens
+let nome [SAOR,NISI,LOUP,ASNE,ROUJ,TENARI,HELYCO,DARK]
