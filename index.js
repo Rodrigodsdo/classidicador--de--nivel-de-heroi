@@ -1,4 +1,4 @@
-// variaveis com vetores bidimensionais
+
 let nomeGuerreiro = "Ghaya"
 let XP = 605
 
